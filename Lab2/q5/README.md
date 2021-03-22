@@ -6,7 +6,6 @@ We have implemented hello.c program which will be compiled as a kernel module. T
 bazif@omen:~/Module$ make
 ```
 This commmand is used to compile the souce code hello.c to create a module called hello.ko
-![Screenshot](make.jpeg)
 ```
 bazif@omen:~/Module$ sudo insmod hello.ko
 ```
