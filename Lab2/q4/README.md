@@ -14,5 +14,5 @@ bazif@omen:~/Desktop/DD/Lab-2/q4$ sleep 1 && xinput reattach 12 13
 ```
 This command will reattach my mouse(slave device) id=12 to its new master device second_mouse pointer id=13. As a result we see two cursors on the monitor.
 # Ouput
-![Screenshot](output_q4.png)
+![Screenshot](output_q4.jpg)
 
